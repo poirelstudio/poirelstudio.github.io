@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poirelstudio.github.io/sitemap.xml
